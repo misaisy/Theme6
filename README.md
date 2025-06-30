@@ -1,2 +1,4 @@
 # My Project
-Project descriptionFeature A implementation
+Project description
+Feature A implementation
+Feature B implementation
